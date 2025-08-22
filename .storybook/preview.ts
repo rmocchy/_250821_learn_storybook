@@ -1,7 +1,5 @@
 import type { Preview } from '@storybook/react-vite';
 
-import '@freee_jp/vibes/css';
-
 const preview : Preview = {
   parameters: {
     controls: {
